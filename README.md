@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a competitive programmer:
+
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/socho.svg)](https://codeforces.com/profile/socho)
+
+[![AtCoder](https://badges.joonhyung.xyz/atcoder/socho.svg)](https://codeforces.com/profile/socho)
+
+
 <!--
 **soum-c/soum-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
